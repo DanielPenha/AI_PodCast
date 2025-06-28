@@ -28,7 +28,7 @@ Demonstrar o uso de IA na geração de conteúdo para podcasts, desde a criaçã
 ## 💡 Como foi feito
 
 1. Geração de roteiro com IA (ChatGPT).
-2. Conversão do texto em voz com ferramenta de TTS.
+2. Conversão do texto em voz com ferramenta de TTS (Vidnoz).
 3. Edição do áudio com software gratuito.
 4. Organização dos arquivos e publicação no GitHub.
 
